@@ -1,0 +1,26 @@
+---
+layout: base
+---
+
+<article class="page" role="article">
+  <header>
+    <h1 class="page-title">Users Stories</h1>
+  </header>
+
+  <div class="row-stories">
+  {% for story in site.stories %}
+  <article class="story">
+    <span class="us-ref">{{ story.ref }}</span>
+    <ul>
+      <li class="blue us-title">Quand..</li>
+      <li class="blue"> {{ story.when }}</li>
+      <li class="red us-title">Je veux..</li>
+      <li class="red">{{ story.what }}</li>
+      <li class="green us-title">Afin de..</li>
+      <li class="green">{{ story.why }}</li>
+    </ul>
+  </article>
+  {% endfor %}
+  </div>
+
+</article>

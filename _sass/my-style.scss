@@ -1,0 +1,96 @@
+h2 {
+  color: #225261;
+  font-size: 1.8em;
+  border-bottom: 1px solid gray;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-size: 1.3rem;
+  background: #225261;
+  color: white;
+  width: fit-content;
+  padding: 0px 10px;
+}
+
+h4 {
+  margin: 0;
+}
+
+.card {
+  display: flex;
+  border: 1px solid #c7c7c7;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+.card:hover {
+  background: whitesmoke;
+}
+
+.card img {
+  width: 100px;
+  height: 100%;
+  object-fit: cover;
+  margin: 0;
+  border-right: 1px solid #c7c7c7;
+}
+
+.card p {
+  margin: 0;
+}
+
+.card div {
+  padding: 10px;
+}
+
+.row-stories {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.story {
+  background: whitesmoke;
+  margin: 10px;
+  padding: 10px 20px;
+  border-radius: 10px;
+  max-width: 30%;
+  min-width: 250px;
+  position: relative;
+}
+
+.story ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.story li.us-title {
+  font-family: 'Roboto Slab';
+  margin-bottom: -10px;
+}
+
+.us-ref {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  margin: 10px 20px;
+  font-size: 2em;
+  color: #b5b5b5;
+}
+
+.content {
+  max-width: none;
+}
+
+.blue {
+  color: #2f6c9a;
+}
+
+.green {
+  color: #5a8a3b;
+}
+
+.red {
+  color: #a84b28;
+}
