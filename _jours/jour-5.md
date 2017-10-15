@@ -16,4 +16,4 @@ permalink: /:title
 ### Livrables
 - Site fonctionnel et en ligne
 - Journal de bord
-- Soutenance préparées
+- Soutenance

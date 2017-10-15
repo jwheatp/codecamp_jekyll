@@ -1,11 +1,11 @@
 ---
 title: 1. Rappels sur JS et JQuery
 type: cours
-duree: 1h
+duree: 1h30
 layout: page
 jour: 2
 img: https://picsum.photos/200/300
-description:
+description: De l'interactivité sur votre site web
 ---
 
 ### C'est quoi le JavaScript ?

@@ -1,11 +1,11 @@
 ---
-title: 2. Les formulaires
+title: 2. Chemin utilisateur
 type: cours
 duree: 1h
 layout: page
 jour: 3
 img: https://picsum.photos/200/300
-description:
+description: Préparons un peu le terrain pour cet après-midi
 ---
 
 ### Chemin utilisateur

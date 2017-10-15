@@ -2,7 +2,7 @@
 title: 0. Kick-off
 type: cours
 layout: page
-duree: 1h
+duree: 30m
 jour: 1
 img: https://picsum.photos/200/300
 description: Lancement de la semaine et présentation du projet à réaliser.
@@ -24,6 +24,23 @@ Quand vous aurez un problème / une question :
 2. Cherchez sur Google. La plupart des solutions se trouvent dans des articles de blog ou dans des forums comme stackoverflow.com ;
 3. Demandez à vos collègues, au moins pour des indices. Attention, cette étape vient en 3ème position, et pas avant ! Un espace Slack sera à votre disposition pour échanger entre vous.
 4. Appelez un mentor qui viendra vous aider. Attention, il vérifiera que vous avez bien suivi les étapes 1, 2 et 3 ;)
+
+### Journal de bord
+
+Dans le cadre de ce projet, nous vous demandons de garder des notes sur ce que vous faites, sous la forme d'un journal de bord.
+
+Vous êtes libre du format (mais un document Word/Pages semble très bien), et un contenu d'une page par jour (sans les images) semble approprié.
+
+**Le journal de bord est individuel.**
+
+Dans ce journal de bord, vous penserez à indiquer pour chaque challenge / itération du projet :
+- Votre ressenti, vos feedbacks ;
+- Vos recherches, avec des preuves (screenshots par ex.) ;
+- Les idées que vous avez eu, celles qui ont été retenues et pourquoi ;
+- Les problèmes que vous avez eu, et vos solutions ;
+- Ce que vous avez apporté à votre groupe, et ce que le groupe vous a apporté ;
+- Les résultats aux questions des challenges du matin s'il y en avait ;
+- Le temps passé sur chaque étape du projet et chaque challenge ;
 
 ### Outils
 On vous encourage à utiliser des outils de gestion de projet et de communication pour faciliter votre travail.

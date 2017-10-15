@@ -1,11 +1,11 @@
 ---
 title: 3. Projet - Itération 2
 type: cours
-duree: 4h
+duree: 3h30
 layout: page
 jour: 2
 img: https://picsum.photos/200/300
-description:
+description: Continuons sur nos projets !
 ---
 
 ### Les données de ce projet

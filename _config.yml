@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Code Camp - ESD
+title: Code Camp
 email: julien.blegean@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Ca va être trop cool ;)
+  Le dashboard des M1 pour le code camp du 16 au 20 octobre ! Pensez aussi à checker le Slack ;)
 url: https://jwheatp.github.io/ # the base hostname & protocol for your site, e.g.
 baseurl: /codecamp/
 twitter_username: jekyllrb

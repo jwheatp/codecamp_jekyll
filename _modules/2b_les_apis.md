@@ -5,7 +5,7 @@ duree: 1h
 layout: page
 jour: 2
 img: https://picsum.photos/200/300
-description:
+description: Récupérons des données avec les APIs
 ---
 
 ### Qu'est-ce qu'une API ?

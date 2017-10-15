@@ -5,9 +5,9 @@ duree: 4h30
 layout: page
 jour: 3
 img: https://picsum.photos/200/300
-description:
+description: Continuons sur notre projet !
 ---
 
 C'est parti pour la troisième itération !
 
-Pour ce faire, basez-vous sur le chemin utilisateur que vous avez réalisé ce matin.
+Pour ce faire, basez-vous sur le chemin utilisateur que vous avez réalisé ce matin, et implémentez vos users stories !

@@ -1,12 +1,17 @@
 ---
 title: 1. Sélection de vos users stories
 type: cours
-duree: 30m
+duree: 1h
 layout: page
 jour: 1
 img: https://picsum.photos/200/300
 description: Parcourir, sélectionner et prioriser les user stories.
 ---
+
+### L'approche agile
+Une excellente vidéo qui résumé l'approche agile : https://www.youtube.com/watch?v=3qMpB-UH9kA
+
+Dans ce projet, on s'inspirera de cette approche, notamment à travers l'utilisation de users stories.
 
 ### Les users stories
 

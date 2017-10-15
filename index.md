@@ -10,7 +10,6 @@ C'est parti pour le Code Camp ! Ce site sera là pour vous accompagner tout au l
 
 {% for jour in site.jours %}
 <article class="card" style="cursor: pointer;" onclick="window.location='{{ jour.url |  prepend:site.baseurl }}';">
-  <img src="{{ jour.img }}">
   <div>
     <h4>{{ jour.title }}</h4>
     <p>{{ jour.description }}</p>

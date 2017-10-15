@@ -5,7 +5,7 @@ duree: 1h30
 layout: page
 jour: 3
 img: https://picsum.photos/200/300
-description:
+description: Allons un peu plus loin avec les APIs
 ---
 
 ### Le modèle REST d'une API
