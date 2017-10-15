@@ -1,7 +1,7 @@
 ---
-ref: '#5'
-when: je vois une musique
-what: voir les hashtags associées
-why: savoir le genre de cette musique
+ref: 5
+when: je suis sur la top list
+what: voir les hashtags associées à chaque musique
+why: savoir le genre/style de cette musique
 layout: page
 ---

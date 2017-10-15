@@ -1,7 +1,7 @@
 ---
-ref: '#11'
-when: une musique me plait beaucoup
-what: voter avec un 'coeur', et pas seulement avec un 'like'
-why: de différencier les musiques que j'aime bien de mes coups de coeur
+ref: 11
+when: j'ajoute une nouvelle musique à la top list
+what: pouvoir y associer des hashtags
+why: de décrire le genre / style de cette musique
 layout: page
 ---

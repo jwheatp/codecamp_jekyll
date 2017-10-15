@@ -8,9 +8,10 @@ layout: base
   </header>
 
   <div class="row-stories">
-  {% for story in site.stories %}
+  {% assign stories = site.stories | sort: 'ref' %}
+  {% for story in stories %}
   <article class="story">
-    <span class="us-ref">{{ story.ref }}</span>
+    <span class="us-ref">#{{ story.ref }}</span>
     <ul>
       <li class="blue us-title">Quand..</li>
       <li class="blue"> {{ story.when }}</li>
